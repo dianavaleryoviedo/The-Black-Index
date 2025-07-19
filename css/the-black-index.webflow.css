@@ -1172,7 +1172,7 @@ a:hover {
 }
 
 .frame-38-2{
-  display: none;
+  display: none!important;
 }
 
 .frame-39-2 {
