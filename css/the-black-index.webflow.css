@@ -1166,9 +1166,13 @@ a:hover {
   justify-content: flex-start;
   align-items: flex-start;
   width: 100%;
-  padding: 25px 20px;
+  padding: 25px 20px 10px;
   text-decoration: none;
   display: flex;
+}
+
+.frame-38-2{
+  display: none;
 }
 
 .frame-39-2 {
