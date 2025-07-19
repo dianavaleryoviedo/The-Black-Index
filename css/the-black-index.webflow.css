@@ -364,7 +364,7 @@ a:hover {
   margin-bottom: 0;
   margin-right: .328125rem;
   font-family: Redaction, Times New Roman, sans-serif;
-  font-size: 2vh;
+  font-size: 2.4vh;
   font-weight: 400;
   line-height: 125%;
   text-decoration: none;
@@ -1006,7 +1006,7 @@ a:hover {
 }
 
 .frame-42-2 {
-  grid-column-gap: 80px;
+  grid-column-gap: 130px;
   grid-row-gap: 80px;
   justify-content: space-between;
   align-items: flex-end;
